@@ -1,0 +1,7 @@
+<meta>
+    <script src="mainC.lua" type="client"/>
+    <script src="mainS.lua" type="server"/>
+    <file src="effects/lock.mp3"/>
+    <file src="effects/open.mp3"/>
+    <file src="effects/alert.mp3"/>
+</meta>
