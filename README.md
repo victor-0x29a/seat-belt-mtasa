@@ -2,6 +2,7 @@
 # Seat Belt for vehicles - MTA:SA
 
 <hr/>
+
 ## Features
 
 - Upon entering a vehicle, an alert begins to sound if the seat belt is missing;
