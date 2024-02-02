@@ -9,3 +9,9 @@
 - Pressing "X" puts on and removes the seat belt;
 - Putting on the seat belt stops the alert;
 - If the vehicle crashes and the seat belt is not fastened, the player takes damage.
+
+
+# Extra
+
+My book about Lua has added on this project.
+
