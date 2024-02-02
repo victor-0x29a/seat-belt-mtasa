@@ -1,8 +1,10 @@
 
+# Seat Belt for vehicles - MTA:SA
 
-# Cinto de segurança para veiculos - MTA:SA
+<hr/>
+## Features
 
-###### Ao entrar em um veiculo começa a tocar um alerta com a falta de cinto;
-###### Apertando "X" você coloca e remove o cinto;
-###### Colocando o cinto, o alerta para;
-###### Caso bater o veiculo e não estiver com o cinto de segurança, o player leva dano;
+- Upon entering a vehicle, an alert begins to sound if the seat belt is missing;
+- Pressing "X" puts on and removes the seat belt;
+- Putting on the seat belt stops the alert;
+- If the vehicle crashes and the seat belt is not fastened, the player takes damage.
